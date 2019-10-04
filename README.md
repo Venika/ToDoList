@@ -4,7 +4,7 @@
 
 Submitted by: **Venika Gaur**
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -33,10 +33,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+The design view wasn't working properly initially because'Autoconnection to parent' was disabled. Fixed by enabling it.
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2019  Venika Gaur
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
