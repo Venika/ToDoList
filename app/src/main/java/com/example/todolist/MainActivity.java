@@ -65,6 +65,7 @@ public class MainActivity extends AppCompatActivity {
                 //Add item to the model
                 items.add(todoItem);
 
+
                 //Notify the adapter that we've inserted an item
                 itemsAdapter.notifyItemInserted(items.size()-1);
                 editItem.setText("");
