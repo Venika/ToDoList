@@ -21,6 +21,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [x] Added a background
+* [x] Added an app icon
 
 ## Video Walkthrough
 
@@ -33,7 +34,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-The design view wasn't working properly initially because'Autoconnection to parent' was disabled. Fixed by enabling it.
+The design view wasn't working properly initially because 'Autoconnection to parent' was disabled.
+Understanding recyclerview took a bit of time.
 
 
 ## License
